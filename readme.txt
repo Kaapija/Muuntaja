@@ -1,0 +1,2 @@
+TTY:n kurssin lopputyö. http://www.cs.tut.fi/~opersk/S2015/@wrapper.shtml?palautus05. Lukee annetun tiedoston ja sen lainalaisuudet. 
+Muuttaa fysikaalisia yksikköjä toiseen muotoon tiedoston lainalaisuuksia hyödyntäen.
